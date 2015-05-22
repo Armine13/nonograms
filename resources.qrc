@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>qss/styles.qss</file>
+        <file>images/x3.png</file>
+        <file>qss/dataButtonsStyle.qss</file>
+        <file>images/whiteX1.png</file>
+        <file>images/whiteX.png</file>
+        <file>images/color-picker-icon.jpg</file>
+        <file>images/Chidori.png</file>
+        <file>images/Hana.png</file>
+        <file>images/Hana2.png</file>
+        <file>images/Hana3.png</file>
+        <file>images/Kikkou.png</file>
+        <file>images/Seikaiha.png</file>
+        <file>images/Shima.png</file>
+        <file>images/win_icon.png</file>
+    </qresource>
+</RCC>

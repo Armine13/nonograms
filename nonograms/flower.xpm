@@ -1,0 +1,26 @@
+/* XPM */
+static char *pixel_flower_bullet___[] = {
+/* columns rows colors chars-per-pixel */
+"13 14 6 1",
+"  c #D01A56",
+". c #F05487",
+"X c #FC79A4",
+"o c #FFBAD1",
+"O c #FFFFFF",
+"+ c None",
+/* pixels */
+"++   ++++++++",
+"+ Ooo ++   ++",
+"+ ooo + oOo +",
+"+ ooXX XXoo +",
+"++ XXX XXXo +",
+"+++ X...XX ++",
+"+  X....  +++",
+" ooX.....X ++",
+" OoXX...XXo +",
+" oo  .X.Xooo ",
+"+  + XX  oOo ",
+"++++ oo +   +",
+"++++ Oo +++++",
+"+++++  ++++++"
+};

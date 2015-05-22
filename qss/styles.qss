@@ -1,0 +1,21 @@
+.GridButton {
+        background-color:%1;
+        color:#14396a;
+        text-indent:0;
+        border-color: %2 %3 %4 %5; /*#A0A0A0;*/
+        border-style:solid;
+        border-width: 1px;
+        
+        font-family:Arial;
+        font-weight:bold;
+        font-style:normal;
+        text-decoration:none;
+        text-align:center;
+
+}.GridButton:!enabled {
+        background-color:rgb(214,227,232);
+}
+.GridButton:active {
+        position:relative;
+        top:1px;
+}
